@@ -20,13 +20,8 @@ header {
 h2 {
   color: #f6cefc;
   padding: 20px 0;
-  font-family: 'Calibri'
-}
-
-address{
-  color: #f6cefc;
-  padding: 20px 0;
-  font-family: 'Calibri'
+  font-family: 'Garamond'
+  text-align: center;
 }
 
 a{
