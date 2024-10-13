@@ -1,6 +1,6 @@
 /* Global styles */
 body {
-    font-family:'Trebuchet MS'
+    font-family: 'Trebuchet MS';
     margin: 0;
     padding: 0;
     background-color: #000000;
@@ -24,6 +24,18 @@ h2 {
   font-family: 'Palatino'
 }
 
-a{
+#contact{
   color: #d493ec;
+}
+
+#appIcon{
+  display: flexbox;
+  box-shadow: 0 0 100px #b68fe5;
+  margin: 5%;
+}
+
+#images{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
 }
